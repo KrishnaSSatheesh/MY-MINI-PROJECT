@@ -1,2 +1,16 @@
-# MY-MINI-PROJECT
-Description: This repository contains a complete data cleaning, transformation, and visualization project built using Power BI. It includes raw datasets, processed files, and the .pbix dashboard file with interactive visualizations.  It featured Fully interactive dashboard, Clear and clean UI design, Easy-to-understand data mode.l.
+# 📊 Power BI Data Analytics Dashboard
+
+An interactive Power BI dashboard project demonstrating data cleaning, transformation, and visualization.  
+Includes raw datasets, processed data, and the `.pbix` file to explore the dashboard yourself.
+
+## ✨ Project Highlights
+- Data cleaning with excel.
+- data transformation using powerbi
+- Calculated columns & measures using **DAX**
+- Interactive visuals with slicers, filters, and bookmarks
+- Charts, and trend analysis
+- User-friendly and clean dashboard design
+
+## 📂 Repository Contents
+- **`Dashboard.pbix`** → Power BI project file  
+- **`dataset/`** → Raw and cleaned datasets  
